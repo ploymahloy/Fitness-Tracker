@@ -1,3 +1,1 @@
- ## Live: https://fitness-tracker-mahloy.herokuapp.com/
-
-- Technologies Used: Express, Mongoose, MongoDB
+ # Demo: https://fitness-tracker-mahloy.herokuapp.com/
